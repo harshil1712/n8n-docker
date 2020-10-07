@@ -2,6 +2,8 @@
 
 Dockerfile to build n8n with Ubuntu.
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 For information about how to run n8n with Docker check the generic
 [Docker-Readme](https://github.com/n8n-io/n8n/tree/master/docker/images/n8n/README.md)
 
